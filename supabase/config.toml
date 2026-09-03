@@ -1,0 +1,5 @@
+[functions.generate-script]
+verify_jwt = false
+
+[functions.generate-suggestions]
+verify_jwt = false
